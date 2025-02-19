@@ -1,19 +1,20 @@
 # 💫 About Me:
 Hi there! 👋
 
-I'm Leonardo Dessì, I'm 23 years old and hold a Bachelor's degree from the University of Cagliari. Currently, I'm pursuing a Master's in Computer Science with a focus on Software Engineering at the University of Bologna. I enjoy coding, especially when it involves solving complex problems that require deep reasoning.
+I'm Leonardo Dessì, I'm 23 years old and hold a Bachelor's degree from the [University of Cagliari](https://web.unica.it/unica/en/crs_60_61.page). Currently, I'm pursuing a Master's in Computer Science with a focus on Software Engineering at the [University of Bologna](https://corsi.unibo.it/2cycle/ComputerScience). I enjoy coding, especially when it involves solving complex problems that require deep reasoning.
 
-- 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
   - Data analysis and AI projects, with a focus on neural networks
   - Various university projects, some of which you can find here on my GitHub
-- 🌱 **I’m currently learning**:
+#### 🌱 **I’m currently learning**:
   - Machine Learning & Neural Networks
   - Advanced Data Analysis
   - Cloud Computing
-- 💬 Ask me about:
+#### 💬 Ask me about:
   - Python scripting
   - Strategies for solving intricate problems.
-- 📫 How to reach me: Feel free to connect with me on GitHub or drop me a message if you'd like to collaborate!
+#### 📫 How to reach me: 
+- Feel free to connect with me on GitHub or drop me a message if you'd like to collaborate!
 
 During my undergraduate studies, I participated in the [CyberChallenge](https://cyberchallenge.it/en), an Italian national cybersecurity competition that featured both capture-the-flag and attack-defense challenges. This experience greatly enhanced my problem-solving skills and deepened my expertise in Python scripting. Additionally, I completed various projects through my university coursework, which are showcased in my profile.
 
@@ -38,4 +39,3 @@ During my undergraduate studies, I participated in the [CyberChallenge](https://
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberGiant7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
